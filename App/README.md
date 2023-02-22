@@ -6,5 +6,5 @@
 
 - orenokoukaon-win-xxx…   [クリックでダウンロード](https://github.com/chz100p/SoundModuleAP/releases/download/orenokoukaon-win-2.1.0-adsemx-bto-202302211526/orenokoukaon-win-2.1.0-adsemx-bto-202302211526.exe)  
 俺の効果音の収録音音声を変更するアプリケーションです。  
-別レポジトリで開発しています。  
+[別レポジトリ](https://github.com/chz100p/SoundModuleAP)  で開発しています。  
 
