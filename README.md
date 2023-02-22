@@ -12,7 +12,7 @@
 <!--
 ### [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
 -->
-### [アプリケーションソフトウェアの入手](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
+### [アプリケーションソフトウェアの入手](https://github.com/bit-trade-one/ADSEMX/tree/master/App)  
 <!--
 ### [ファームウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
 -->
