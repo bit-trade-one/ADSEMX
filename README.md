@@ -10,9 +10,9 @@
 
 ## [製品HPリンク](https://bit-trade-one.co.jp/adsemx/) 
  - [各部名称・接続図解](https://bit-trade-one.co.jp/adsemx/#:~:text=%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E3%80%82-,%EF%BC%8A,-%E6%9C%AC%E8%A3%BD%E5%93%81%E3%81%AB)
-<!--
-### [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
--->
+
+### [WEB取扱説明書(PDF)](https://github.com/bit-trade-one/ADSEMX/blob/master/Manual/ADSEMX_%E5%8F%96%E6%89%B1%E8%AA%AC%E6%98%8E%E6%9B%B8V1.pdf)
+
 ### [アプリケーションソフトウェアの入手](https://github.com/bit-trade-one/ADSEMX/tree/master/App)  
 <!--
 ### [ファームウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
