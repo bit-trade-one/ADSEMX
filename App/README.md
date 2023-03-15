@@ -7,7 +7,7 @@
 
 ---
 
-### ・【出荷状態へ戻す】My_Sound_Effect_Init  [クリックでダウンロード](https://github.com/bit-trade-one/ADSEMX/raw/master/App/My_Sound_Effect_Init.zip)  
+### ・【出荷状態へ戻す】My_Sound_Effect_Init  [クリックでダウンロード](https://bit-trade-one.co.jp/wp/wp-content/uploads/2023/03/My_Sound_Effect_Init.zip)  
 俺の効果音の収録音音声を出荷状態に戻すアプリです。  
 
 
