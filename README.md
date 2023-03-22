@@ -13,7 +13,7 @@
 
 ### [設定ツール等の入手](https://github.com/bit-trade-one/ADSEMX/tree/master/App)  
 
-### [WEB取扱説明書(PDF)](https://github.com/bit-trade-one/ADSEMX/blob/master/Manual/ADSEMX_%E5%8F%96%E6%89%B1%E8%AA%AC%E6%98%8E%E6%9B%B8V2.pdf)
+### [WEB取扱説明書(PDF)](https://github.com/bit-trade-one/ADSEMX/blob/master/Manual/ADSEMX_%E5%8F%96%E6%89%B1%E8%AA%AC%E6%98%8E%E6%9B%B8V3.pdf)
 
 <!--
 ### [ファームウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
