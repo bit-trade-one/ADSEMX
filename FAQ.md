@@ -15,7 +15,7 @@
 
 ![CTIA図](https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_800/https://bit-trade-one.co.jp/wp/wp-content/uploads/2023/04/ADSEMX-%E4%B8%AD%E7%B4%99G_130x297mm%EF%BC%8F%E4%B8%8A107%E6%8A%98_FIX-OL.png)
 
-#### ・ボイスチャットソフト側でノイズリダクションが掛けられていた可能性がある。
+#### ・ボイスチャットソフト側のノイズリダクションについて
 昨今のAIによる強力なノイズリダクション機能は、ボイスチャットソフト側でノイズと判定され、除去される
 可能性があります。その場合は、ノイズリダクションを軽くするか、機能をカットすることで改善される可能
 性があります。
